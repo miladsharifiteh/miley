@@ -113,7 +113,7 @@ def help():
 
     print("""Help:
 
-    library -> prints current library database
+    library -> prints the current library database
     playlists -> prints playlist databases
     playlist:[playlist] -> prints "playlist" database
     create:[playlist] -> creates a new empty "playlist"
