@@ -7,7 +7,7 @@
 #### Introduction
 
 **Miley** is my final project for CS50P course from Harvard. It is a simple 
-command line audio player and library manager for Linux. It is written in 
+command-line audio player and library manager for Linux. It is written in 
 Python and can play MP3, WAV, and FLAC files. **Miley** uses the 
 "just_playback" library from "pypi" for playing and playback controls of 
 tracks. Furthermore, it is designed to use simple CSV files for storing and 
@@ -62,15 +62,13 @@ need comments.
 #### Usage
 
 To run the software from the source:
-`python project.py`
-To run the software from the binary file, go to the bin folder:
-`./miley`
+`python project.py`. To run the software from the binary file, go to the bin folder: `./miley`
 
 When you run **Miley**, you are in the main UI of the software. The 
 available commands in this stage are:
 
 - `Help`, `HELP`, or `help` -> prints the software guidance.
-- `library` -> prints current library database.
+- `library` -> prints the current library database.
 - `playlists` -> prints playlist databases.
 - `playlist:[playlist]` -> prints "playlist" database. example: 
 `playlist:M-Jackson`.
@@ -121,7 +119,7 @@ The available commands in this stage are:
 - `resume` -> resumes the playback, refuses when the track is already playing.
 - `seek-[seconds]` -> jumps to the "seconds" position of the track. example: 
 `seek-100`.
-- `stop` -> terminates the current playback and take you to the main UI.
+- `stop` -> terminates the current playback and takes you to the main UI.
 - `next` -> terminates the current playback and starts to play the next one.
 - `prev` -> terminates the current playback and starts to play the previous 
 one.
@@ -130,7 +128,7 @@ playback list. example: `9`.
 
 #### Appreciation
 
-I want to thank D.J. Malan and the CS50 team for years of effort and 
+I want to thank D.J. Malan and the CS50 team for their years of effort and 
 dedication to empower human resources around the world. Furthermore, 
 I want to thank you for being here and testing my project.
 
