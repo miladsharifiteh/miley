@@ -1,0 +1,579 @@
+ID,Title,Artist,Album,Track,Date,Length,Path,Format
+1,Bacheh Nasho Ey Del,Mahasti,Bacheh Nasho Ey Del - Sedaye Pa,1,1971,03:42,/var/home/miladsharifiteh/Music/Mahasti/Bacheh Nasho Ey Del - Sedaye Pa/1-Bache Nasho Ey Del.mp3,mp3
+2,Sedaye Pa,Mahasti,Bacheh Nasho Ey Del - Sedaye Pa,2,1971,06:16,/var/home/miladsharifiteh/Music/Mahasti/Bacheh Nasho Ey Del - Sedaye Pa/2-Sedaye Pa.mp3,mp3
+3,Digar Che Khahi,Mahasti,Digar Che Khahi (Shoushtari),1,1969,06:33,/var/home/miladsharifiteh/Music/Mahasti/Digar Che Khahi (Shoushtari)/1-Digar Che Khahi.mp3,mp3
+4,Darbasteh,Mahasti,Hamisheh Ashegh,1,1990,05:04,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/1-Darbasteh.mp3,mp3
+5,Labkhand,Mahasti,Hamisheh Ashegh,2,1990,05:14,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/2-Labkhand.mp3,mp3
+6,Hoseleye Asheghi Nadaram,Mahasti,Hamisheh Ashegh,3,1990,05:33,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/3-Hoseleye Asheghi Nadaram.mp3,mp3
+7,Bi Mohabbat,Mahasti,Hamisheh Ashegh,4,1990,08:00,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/4-Bi Mohabbat.mp3,mp3
+8,Bas Kon,Mahasti,Hamisheh Ashegh,5,1990,07:12,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/5-Bas Kon.mp3,mp3
+9,Saboure Sharghi,Mahasti,Hamisheh Ashegh,6,1990,04:55,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/6-Saboure Sharghi.mp3,mp3
+10,Bi To Mimiram,Mahasti,Hamisheh Ashegh,7,1990,04:40,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/7-Bi To Mimiram.mp3,mp3
+11,Hamisheh Ashegh,Mahasti,Hamisheh Ashegh,8,1990,03:34,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Ashegh/8-Hamisheh Ashegh.mp3,mp3
+12,Parandeye Shadi,Mahasti,Miveye Gonah,1,1970,04:00,/var/home/miladsharifiteh/Music/Mahasti/Miveye Gonah/1-Parandeye Shadi.mp3,mp3
+13,Meykhouneh Bi Sharabeh,Mahasti,Asir,1,1992,05:44,/var/home/miladsharifiteh/Music/Mahasti/Asir/1-Meykhouneh Bi Sharabeh.mp3,mp3
+14,Asir,Mahasti,Asir,2,1992,05:32,/var/home/miladsharifiteh/Music/Mahasti/Asir/2-Asir.mp3,mp3
+15,Modara,Mahasti,Asir,3,1992,05:05,/var/home/miladsharifiteh/Music/Mahasti/Asir/3-Modara.mp3,mp3
+16,Khoube Man,Mahasti,Asir,4,1992,05:41,/var/home/miladsharifiteh/Music/Mahasti/Asir/4-Khoube Man.mp3,mp3
+17,Taghsire Tost,Mahasti,Asir,5,1992,03:57,/var/home/miladsharifiteh/Music/Mahasti/Asir/5-Taghsire Tost.mp3,mp3
+18,Delam,Mahasti,Asir,6,1992,06:40,/var/home/miladsharifiteh/Music/Mahasti/Asir/6-Delam.mp3,mp3
+19,Delo Del,Mahasti,Delo Del - Gol Hamrahe Nasim,1,1972,05:29,/var/home/miladsharifiteh/Music/Mahasti/Delo Del - Gol Hamrahe Nasim/1-Delo Del.mp3,mp3
+20,Gol Hamrahe Nasim,Mahasti,Delo Del - Gol Hamrahe Nasim,2,1972,05:05,/var/home/miladsharifiteh/Music/Mahasti/Delo Del - Gol Hamrahe Nasim/2-Gol Hamrahe Nasim.mp3,mp3
+21,Golhaye Rangarang (516),Mahasti,Golhaye Mahasti 2,1,1979,29:30,/var/home/miladsharifiteh/Music/Mahasti/Golhaye Mahasti 2/1-Golhaye Rangarang (516).mp3,mp3
+22,Golhaye Rangarang (529),Mahasti,Golhaye Mahasti 2,2,1979,28:40,/var/home/miladsharifiteh/Music/Mahasti/Golhaye Mahasti 2/2-Golhaye Rangarang (529).mp3,mp3
+23,Banafsheh,Mahasti,Mahasti 3 - Shahre Farang,1,1993,10:27,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/1-Banafsheh.mp3,mp3
+24,Tars Az Jodaei,Mahasti,Mahasti 3 - Shahre Farang,10,1993,03:50,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/10-Tars Az Jodaei.mp3,mp3
+25,Digar Che Khahi,Mahasti,Mahasti 3 - Shahre Farang,11,1993,06:33,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/11-Digar Che Khahi.mp3,mp3
+26,Eshghe Bazigar,Mahasti,Mahasti 3 - Shahre Farang,2,1993,06:40,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/2-Eshghe Bazigar.mp3,mp3
+27,Ashki Baram Namoundeh,Mahasti,Mahasti 3 - Shahre Farang,3,1993,03:40,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/3-Ashki Baram Namoundeh.mp3,mp3
+28,Biya Khouneh,Mahasti,Mahasti 3 - Shahre Farang,4,1993,05:12,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/4-Biya Khouneh.mp3,mp3
+29,Darya,Mahasti,Mahasti 3 - Shahre Farang,5,1993,04:06,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/5-Darya.mp3,mp3
+30,Gol Hamrahe Nasim,Mahasti,Mahasti 3 - Shahre Farang,6,1993,05:04,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/6-Gol Hamrahe Nasim.mp3,mp3
+31,Morghe Tokhm Tala,Mahasti,Mahasti 3 - Shahre Farang,7,1993,04:54,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/7-Morghe Tokhm Tala.mp3,mp3
+32,Nemikham,Mahasti,Mahasti 3 - Shahre Farang,8,1993,03:59,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/8-Nemikham.mp3,mp3
+33,Cheraghe Omr,Mahasti,Mahasti 3 - Shahre Farang,9,1993,04:26,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Shahre Farang/9-Cheraghe Omr.mp3,mp3
+34,To Bayad Bemani,Mahasti,To Bayad Bemani,1,1970,04:34,/var/home/miladsharifiteh/Music/Mahasti/To Bayad Bemani/1-To Bayad Bemani.mp3,mp3
+35,Biganeh,Mahasti,Biganeh 3,1,2015,04:52,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/1-Biganeh.mp3,mp3
+36,Bacheh Nasho Ey Del,Mahasti,Biganeh 3,10,2015,03:43,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/10-Bacheh Nasho Ey Del.mp3,mp3
+37,Bazicheh,Mahasti,Biganeh 3,2,2015,04:22,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/2-Bazicheh.mp3,mp3
+38,Ghesseye Ma,Mahasti,Biganeh 3,3,2015,04:20,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/3-Ghesseye Ma.mp3,mp3
+39,Sabro Taghat,Mahasti,Biganeh 3,4,2015,04:11,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/4-Sabro Taghat.mp3,mp3
+40,Shakheh Nabat,Mahasti,Biganeh 3,5,2015,04:08,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/5-Shakheh Nabat.mp3,mp3
+41,Man Che Konam,Mahasti,Biganeh 3,6,2015,04:30,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/6-Man Che Konam.mp3,mp3
+42,Man Digeh Yar Nemikham,Mahasti,Biganeh 3,7,2015,03:58,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/7-Man Digeh Yar Nemikham.mp3,mp3
+43,Dalghak,Mahasti,Biganeh 3,8,2015,06:43,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/8-Dalghak.mp3,mp3
+44,Khouneh Tekouni,Mahasti,Biganeh 3,9,2015,03:08,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 3/9-Khouneh Tekouni.mp3,mp3
+45,Ghasam,Mahasti,Ghasam 1,1,1999,04:22,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/1-Ghasam.mp3,mp3
+46,Music,Mahasti,Ghasam 1,10,1999,03:44,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/10-Music.mp3,mp3
+47,Man Che Konam,Mahasti,Ghasam 1,2,1999,04:31,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/2-Man Che Konam.mp3,mp3
+48,Bazicheh,Mahasti,Ghasam 1,3,1999,04:21,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/3-Bazicheh.mp3,mp3
+49,Namiri Elahi,Mahasti,Ghasam 1,4,1999,04:29,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/4-Namiri Elahi.mp3,mp3
+50,Nemikhamet,Mahasti,Ghasam 1,5,1999,03:56,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/5-Nemikhamet.mp3,mp3
+51,Ashki Baram Namoundeh,Mahasti,Ghasam 1,6,1999,03:40,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/6-Ashki Baram Namoundeh.mp3,mp3
+52,Darya,Mahasti,Ghasam 1,7,1999,04:04,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/7-Darya.mp3,mp3
+53,Elahi Bemouni,Mahasti,Ghasam 1,8,1999,05:18,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/8-Elahi Bemouni.mp3,mp3
+54,Morghe Tokhm Tala,Mahasti,Ghasam 1,9,1999,04:53,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 1/9-Morghe Tokhm Tala.mp3,mp3
+55,Jomjomak,Mahasti,Jomjomak - Yade Ou,1,1970,04:51,/var/home/miladsharifiteh/Music/Mahasti/Jomjomak - Yade Ou/1-Jomjomak.mp3,mp3
+56,Yade Ou,Mahasti,Jomjomak - Yade Ou,2,1970,02:45,/var/home/miladsharifiteh/Music/Mahasti/Jomjomak - Yade Ou/2-Yade Ou.mp3,mp3
+57,Raze Khelghat,Mahasti,Raze Khelghat,1,1967,05:05,/var/home/miladsharifiteh/Music/Mahasti/Raze Khelghat/1-Raze Khelghat.mp3,mp3
+58,Ashofteh,Mahasti,Ashofteh 1,1,1996,05:46,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/1-Ashofteh.mp3,mp3
+59,Jodaei,Mahasti,Ashofteh 1,10,1996,06:13,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/10-Jodaei.mp3,mp3
+60,Banafsheh,Mahasti,Ashofteh 1,2,1996,04:46,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/2-Banafsheh.mp3,mp3
+61,Asemoun Ba Mano To Ghahreh Digeh,Mahasti,Ashofteh 1,3,1996,04:33,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/3-Asemoun Ba Mano To Ghahreh Digeh.mp3,mp3
+62,Harfe Akhar Ra Bezan,Mahasti,Ashofteh 1,4,1996,04:59,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/4-Harfe Akhar Ra Bezan.mp3,mp3
+63,Faryad,Mahasti,Ashofteh 1,5,1996,04:11,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/5-Faryad.mp3,mp3
+64,Doa,Mahasti,Ashofteh 1,6,1996,03:32,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/6-Doa.mp3,mp3
+65,Dota Cheshmoun,Mahasti,Ashofteh 1,7,1996,03:57,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/7-Dota Cheshmoun.mp3,mp3
+66,Mageh Na,Mahasti,Ashofteh 1,8,1996,05:26,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/8-Mageh Na.mp3,mp3
+67,Ghesseye Ma,Mahasti,Ashofteh 1,9,1996,04:17,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 1/9-Ghesseye Ma.mp3,mp3
+68,Del Migeh Delbar Miad,Mahasti,Del Migeh Delbar Miad (Do Beyti),1,1970,04:43,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad (Do Beyti)/1-Del Migeh Delbar Miad.mp3,mp3
+69,Gole Omid,Mahasti,Gole Omid,1,1993,04:52,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/1-Gole Omid.mp3,mp3
+70,Geleh Daram,Mahasti,Gole Omid,2,1993,05:39,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/2-Geleh Daram.mp3,mp3
+71,Yek Delo In Hameh Gham,Mahasti,Gole Omid,3,1993,05:14,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/3-Yek Delo In Hameh Gham.mp3,mp3
+72,Ashegh,Mahasti,Gole Omid,4,1993,06:06,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/4-Ashegh.mp3,mp3
+73,Jodaei,Mahasti,Gole Omid,5,1993,04:26,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/5-Jodaei.mp3,mp3
+74,Naro,Mahasti,Gole Omid,6,1993,05:35,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/6-Naro.mp3,mp3
+75,Ki Miad,Mahasti,Gole Omid,7,1993,04:41,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/7-Ki Miad.mp3,mp3
+76,Tapesh,Mahasti,Gole Omid,8,1993,04:39,/var/home/miladsharifiteh/Music/Mahasti/Gole Omid/8-Tapesh.mp3,mp3
+77,Man Digeh Yar Nemikham,Mahasti,Mahasti 3 - Armon,1,1993,03:54,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/1-Man Digeh Yar Nemikham.mp3,mp3
+78,Dele Mennat Kesh,Mahasti,Mahasti 3 - Armon,10,1993,06:00,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/10-Dele Mennat Kesh.mp3,mp3
+79,Bastare Gham,Mahasti,Mahasti 3 - Armon,11,1993,06:58,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/11-Bastare Gham.mp3,mp3
+80,Deleh In,Mahasti,Mahasti 3 - Armon,2,1993,05:02,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/2-Deleh In.mp3,mp3
+81,Sedaye Pa,Mahasti,Mahasti 3 - Armon,3,1993,06:11,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/3-Sedaye Pa.mp3,mp3
+82,Elahi Bemouni,Mahasti,Mahasti 3 - Armon,4,1993,05:17,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/4-Elahi Bemouni.mp3,mp3
+83,Bacheh Nasho Ey Del,Mahasti,Mahasti 3 - Armon,5,1993,03:43,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/5-Bacheh Nasho Ey Del.mp3,mp3
+84,Tars Az Jodaei,Mahasti,Mahasti 3 - Armon,6,1993,03:48,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/6-Tars Az Jodaei.mp3,mp3
+85,Del Migeh Delbar Miad,Mahasti,Mahasti 3 - Armon,7,1993,04:42,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/7-Del Migeh Delbar Miad.mp3,mp3
+86,Digar Che Khahi,Mahasti,Mahasti 3 - Armon,8,1993,06:30,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/8-Digar Che Khahi.mp3,mp3
+87,Ashegh Shodan Bi Haseleh,Mahasti,Mahasti 3 - Armon,9,1993,06:17,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Armon/9-Ashegh Shodan Bi Haseleh.mp3,mp3
+88,Jodaei,Mahasti,Shokouhe Ghahreman,1,1970,05:19,/var/home/miladsharifiteh/Music/Mahasti/Shokouhe Ghahreman/1-Jodaei.mp3,mp3
+89,Nakhostin Eshgh,Mahasti,Shokouhe Ghahreman,2,1970,02:59,/var/home/miladsharifiteh/Music/Mahasti/Shokouhe Ghahreman/2-Nakhostin Eshgh.mp3,mp3
+90,Biganeh,Mahasti,Biganeh 1,1,1999,04:55,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/1-Biganeh.mp3,mp3
+91,Deltang,Mahasti,Biganeh 1,10,1999,04:26,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/10-Deltang.mp3,mp3
+92,Atre Bahar,Mahasti,Biganeh 1,11,1999,03:53,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/11-Atre Bahar.mp3,mp3
+93,Shakheh Nabat,Mahasti,Biganeh 1,12,1999,04:06,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/12-Shakheh Nabat.mp3,mp3
+94,Music,Mahasti,Biganeh 1,13,1999,02:50,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/13-Music.mp3,mp3
+95,Magiresh Az Man,Mahasti,Biganeh 1,2,1999,04:40,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/2-Magiresh Az Man.mp3,mp3
+96,Gheblegah,Mahasti,Biganeh 1,3,1999,05:18,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/3-Gheblegah.mp3,mp3
+97,Labkhand,Mahasti,Biganeh 1,4,1999,04:21,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/4-Labkhand.mp3,mp3
+98,Taasof,Mahasti,Biganeh 1,5,1999,03:58,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/5-Taasof.mp3,mp3
+99,Kamboud,Mahasti,Biganeh 1,6,1999,06:51,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/6-Kamboud.mp3,mp3
+100,Dorangi,Mahasti,Biganeh 1,7,1999,04:51,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/7-Dorangi.mp3,mp3
+101,Delam Tangeh,Mahasti,Biganeh 1,8,1999,04:42,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/8-Delam Tangeh.mp3,mp3
+102,Nazan Sang,Mahasti,Biganeh 1,9,1999,04:51,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 1/9-Nazan Sang.mp3,mp3
+103,Faryad,Mahasti,Faryad - Harfe Akhar Ra Bezan,1,1974,04:11,/var/home/miladsharifiteh/Music/Mahasti/Faryad - Harfe Akhar Ra Bezan/1-Faryad.mp3,mp3
+104,Harfe Akhar Ra Bezan,Mahasti,Faryad - Harfe Akhar Ra Bezan,2,1974,05:02,/var/home/miladsharifiteh/Music/Mahasti/Faryad - Harfe Akhar Ra Bezan/2-Harfe Akhar Ra Bezan.mp3,mp3
+105,Jodaei,Mahasti,Jodaei - Ghesseye Ma,1,1974,03:59,/var/home/miladsharifiteh/Music/Mahasti/Jodaei - Ghesseye Ma/1-Jodaei.mp3,mp3
+106,Ghesseye Ma,Mahasti,Jodaei - Ghesseye Ma,2,1974,04:20,/var/home/miladsharifiteh/Music/Mahasti/Jodaei - Ghesseye Ma/2-Ghesseye Ma.mp3,mp3
+107,Parandeye Mohajer,Mahasti,Parandeye Mohajer 1,1,1999,04:54,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/1-Parandeye Mohajer.mp3,mp3
+108,Eshghe Bazigar,Mahasti,Parandeye Mohajer 1,10,1999,06:38,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/10-Eshghe Bazigar.mp3,mp3
+109,Sedayam Kon,Mahasti,Parandeye Mohajer 1,11,1999,03:54,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/11-Sedayam Kon.mp3,mp3
+110,Music,Mahasti,Parandeye Mohajer 1,12,1999,04:21,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/12-Music.mp3,mp3
+111,Havaye Yar,Mahasti,Parandeye Mohajer 1,2,1999,05:17,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/2-Havaye Yar.mp3,mp3
+112,Sabro Taghat,Mahasti,Parandeye Mohajer 1,3,1999,04:13,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/3-Sabro Taghat.mp3,mp3
+113,Biya Khouneh,Mahasti,Parandeye Mohajer 1,4,1999,05:15,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/4-Biya Khouneh.mp3,mp3
+114,Cheraghe Omr,Mahasti,Parandeye Mohajer 1,5,1999,04:37,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/5-Cheraghe Omr.mp3,mp3
+115,Dalghak,Mahasti,Parandeye Mohajer 1,6,1999,06:48,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/6-Dalghak.mp3,mp3
+116,Cheragh,Mahasti,Parandeye Mohajer 1,7,1999,04:18,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/7-Cheragh.mp3,mp3
+117,Ghame Donya,Mahasti,Parandeye Mohajer 1,8,1999,05:36,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/8-Ghame Donya.mp3,mp3
+118,Del Az To Delgireh,Mahasti,Parandeye Mohajer 1,9,1999,04:45,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 1/9-Del Az To Delgireh.mp3,mp3
+119,Del Migeh Delbar Miad,Mahasti,Behtarin Taranehayash 1,1,1975,04:41,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/1-Del Migeh Delbar Miad.mp3,mp3
+120,Digar Che Khahi,Mahasti,Behtarin Taranehayash 1,2,1975,06:30,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/2-Digar Che Khahi.mp3,mp3
+121,Ashegh Shodan Bi Haseleh,Mahasti,Behtarin Taranehayash 1,3,1975,06:18,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/3-Ashegh Shodan Bi Haseleh.mp3,mp3
+122,Tars Az Jodaei,Mahasti,Behtarin Taranehayash 1,4,1975,03:49,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/4-Tars Az Jodaei.mp3,mp3
+123,Man Digeh Yar Nemikham,Mahasti,Behtarin Taranehayash 1,5,1975,03:55,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/5-Man Digeh Yar Nemikham.mp3,mp3
+124,Deleh In,Mahasti,Behtarin Taranehayash 1,6,1975,05:02,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/6-Deleh In.mp3,mp3
+125,Sedaye Pa,Mahasti,Behtarin Taranehayash 1,7,1975,06:02,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/7-Sedaye Pa.mp3,mp3
+126,Elahi Bemouni,Mahasti,Behtarin Taranehayash 1,8,1975,05:18,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/8-Elahi Bemouni.mp3,mp3
+127,Bacheh Nasho Ey Del,Mahasti,Behtarin Taranehayash 1,9,1975,03:34,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 1/9-Bacheh Nasho Ey Del.mp3,mp3
+128,Digeh Basameh,Mahasti,Digeh Basameh (Abou Ata),1,1971,05:38,/var/home/miladsharifiteh/Music/Mahasti/Digeh Basameh (Abou Ata)/1-Digeh Basameh.mp3,mp3
+129,Sayeh,Mahasti,Hamisheh Sabz,1,2003,05:37,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Sabz/1-Sayeh.mp3,mp3
+130,Pashiman,Mahasti,Hamisheh Sabz,2,2003,04:16,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Sabz/2-Pashiman.mp3,mp3
+131,Mitarsam,Mahasti,Hamisheh Sabz,3,2003,03:54,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Sabz/3-Mitarsam.mp3,mp3
+132,Hamisheh Sabz,Mahasti,Hamisheh Sabz,4,2003,03:59,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Sabz/4-Hamisheh Sabz.mp3,mp3
+133,Havas,Mahasti,Hamisheh Sabz,5,2003,05:04,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Sabz/5-Havas.mp3,mp3
+134,Delam Tangeh,Mahasti,Hamisheh Sabz,6,2003,04:21,/var/home/miladsharifiteh/Music/Mahasti/Hamisheh Sabz/6-Delam Tangeh.mp3,mp3
+135,Moj,Mahasti,Moj,1,1993,08:13,/var/home/miladsharifiteh/Music/Mahasti/Moj/1-Moj.mp3,mp3
+136,Noresideh,Mahasti,Moj,2,1993,05:50,/var/home/miladsharifiteh/Music/Mahasti/Moj/2-Noresideh.mp3,mp3
+137,Donbale Che Migardi,Mahasti,Moj,3,1993,06:27,/var/home/miladsharifiteh/Music/Mahasti/Moj/3-Donbale Che Migardi.mp3,mp3
+138,Kash,Mahasti,Moj,4,1993,07:23,/var/home/miladsharifiteh/Music/Mahasti/Moj/4-Kash.mp3,mp3
+139,Kami Ba Man Modara Kon,Mahasti,Moj,5,1993,06:06,/var/home/miladsharifiteh/Music/Mahasti/Moj/5-Kami Ba Man Modara Kon.mp3,mp3
+140,Saketo Sardi Chera,Mahasti,Moj,6,1993,05:52,/var/home/miladsharifiteh/Music/Mahasti/Moj/6-Saketo Sardi Chera.mp3,mp3
+141,Music,Mahasti,Moj,7,1993,03:11,/var/home/miladsharifiteh/Music/Mahasti/Moj/7-Music.mp3,mp3
+142,Ashki Baram Namoundeh,Mahasti,Ashki Baram Namoundeh,1,1973,03:42,/var/home/miladsharifiteh/Music/Mahasti/Ashki Baram Namoundeh/1-Ashki Baram Namoundeh.mp3,mp3
+143,Del Ke Gonahi Nadareh,Mahasti,Del Ke Gonahi Nadareh (Segah),1,1971,04:11,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh (Segah)/1-Del Ke Gonahi Nadareh.mp3,mp3
+144,Vedae Dar Oj,Mahasti,Golden Songs 3,11,2007,05:00,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/11-Vedae Dar Oj.mp3,mp3
+145,Sedaye Pa Miad,Mahasti,Golden Songs 3,20,2007,06:16,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/20-Sedaye Pa Miad.mp3,mp3
+146,Benevis,Mahasti,Golden Songs 3,12,2007,03:57,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/12-Benevis.mp3,mp3
+147,Avazak,Mahasti,Golden Songs 3,13,2007,03:59,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/13-Avazak.mp3,mp3
+148,Dirouz Va Emrouz,Mahasti,Golden Songs 3,14,2007,05:26,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/14-Dirouz Va Emrouz.mp3,mp3
+149,Tanha Tora Mishenasam,Mahasti,Golden Songs 3,15,2007,04:17,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/15-Tanha Tora Mishenasam.mp3,mp3
+150,Nemibakhsham Toro,Mahasti,Golden Songs 3,16,2007,03:50,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/16-Nemibakhsham Toro.mp3,mp3
+151,Hamseda,Mahasti,Golden Songs 3,17,2007,05:07,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/17-Hamseda.mp3,mp3
+152,Bi To Mimiram,Mahasti,Golden Songs 3,18,2007,05:19,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/18-Bi To Mimiram.mp3,mp3
+153,Montazere Javabeh,Mahasti,Golden Songs 3,19,2007,04:09,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/19-Montazere Javabeh.mp3,mp3
+154,Koja Rafti,Mahasti,Golden Songs 3,21,2007,04:24,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/21-Koja Rafti.mp3,mp3
+155,Del Ey Del,Mahasti,Golden Songs 3,30,2007,05:08,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/30-Del Ey Del.mp3,mp3
+156,To Miay Dar Nazaram,Mahasti,Golden Songs 3,22,2007,03:53,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/22-To Miay Dar Nazaram.mp3,mp3
+157,Benshin Kenare Man,Mahasti,Golden Songs 3,23,2007,03:47,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/23-Benshin Kenare Man.mp3,mp3
+158,Madar,Mahasti,Golden Songs 3,24,2007,05:12,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/24-Madar.mp3,mp3
+159,Digar Che Mikhahi,Mahasti,Golden Songs 3,25,2007,06:34,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/25-Digar Che Mikhahi.mp3,mp3
+160,Akharin Tabib,Mahasti,Golden Songs 3,26,2007,04:08,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/26-Akharin Tabib.mp3,mp3
+161,Ey Eshgh,Mahasti,Golden Songs 3,27,2007,16:45,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/27-Ey Eshgh.mp3,mp3
+162,Zendegani,Mahasti,Golden Songs 3,28,2007,03:17,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/28-Zendegani.mp3,mp3
+163,Akhare Zamoun,Mahasti,Golden Songs 3,29,2007,05:12,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/29-Akhare Zamoun.mp3,mp3
+164,Jodaeiye To,Mahasti,Golden Songs 3,31,2007,05:54,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/31-Jodaeiye To.mp3,mp3
+165,Deklameh,Mahasti,Golden Songs 3,32,2007,08:41,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/32-Deklameh.mp3,mp3
+166,Avaze Golpa,Mahasti,Golden Songs 3,33,2007,12:23,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/33-Avaze Golpa.mp3,mp3
+167,Deklameh Va Tasnife Jodaeiye To,Mahasti,Golden Songs 3,34,2007,01:09,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/34-Deklameh Va Tasnife Jodaeiye To.mp3,mp3
+168,Golhaye Rangarag (Introduction),Mahasti,Golden Songs 3,35,2007,00:46,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/35-Golhaye Rangarang (Introduction).mp3,mp3
+169,Deklameh Va Taraneye Bastare Gham,Mahasti,Golden Songs 3,36,2007,06:59,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/36-Deklameh Va Taraneye Bastare Gham.mp3,mp3
+170,Deklameh Va Pishdaramade Esfahan,Mahasti,Golden Songs 3,37,2007,05:01,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/37-Deklameh Va Pishdaramade Esfahan.mp3,mp3
+171,Avaze Golpa Dar Esfahan,Mahasti,Golden Songs 3,38,2007,08:00,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/38-Avaze Golpa Dar Esfahan.mp3,mp3
+172,Deklameh Va Tasnife Bastare Gham,Mahasti,Golden Songs 3,39,2007,06:48,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/39-Deklameh Va Tasnife Bastare Gham.mp3,mp3
+173,Mitarsam,Mahasti,Golden Songs 3,1,2007,03:54,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/1-Mitarsam.mp3,mp3
+174,Azizam,Mahasti,Golden Songs 3,10,2007,01:59,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/10-Azizam.mp3,mp3
+175,Gharibeh,Mahasti,Golden Songs 3,2,2007,05:08,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/2-Gharibeh.mp3,mp3
+176,Havasbaz,Mahasti,Golden Songs 3,3,2007,04:41,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/3-Havasbaz.mp3,mp3
+177,Hezar Bouneh,Mahasti,Golden Songs 3,4,2007,04:02,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/4-Hezar Bouneh.mp3,mp3
+178,Deldadeh,Mahasti,Golden Songs 3,5,2007,05:06,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/5-Deldadeh.mp3,mp3
+179,Yare Joun Jouni,Mahasti,Golden Songs 3,6,2007,04:37,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/6-Yare Joun Jouni.mp3,mp3
+180,Begou Baz Begou,Mahasti,Golden Songs 3,7,2007,04:56,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/7-Begou Baz Begou.mp3,mp3
+181,Ey Bahareh,Mahasti,Golden Songs 3,8,2007,04:30,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/8-Ey Bahareh.mp3,mp3
+182,Ghoroure Shekastani,Mahasti,Golden Songs 3,9,2007,04:27,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 3/9-Ghoroure Shekastani.mp3,mp3
+183,Nemikhamet,Mahasti,Mahasti 2 - Molan Rojh,1,1993,03:53,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/1-Nemikhamet.mp3,mp3
+184,Jodaeiye To,Mahasti,Mahasti 2 - Molan Rojh,10,1993,05:37,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/10-Jodaeiye To.mp3,mp3
+185,Bastare Gham,Mahasti,Mahasti 2 - Molan Rojh,11,1993,07:21,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/11-Bastare Gham.mp3,mp3
+186,Delo Del,Mahasti,Mahasti 2 - Molan Rojh,12,1993,05:52,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/12-Delo Del.mp3,mp3
+187,Ashki Baram Namoundeh,Mahasti,Mahasti 2 - Molan Rojh,13,1993,03:04,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/13-Ashki Baram Namoundeh.mp3,mp3
+188,Darya,Mahasti,Mahasti 2 - Molan Rojh,2,1993,04:09,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/2-Darya.mp3,mp3
+189,Man Che Konam,Mahasti,Mahasti 2 - Molan Rojh,3,1993,04:03,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/3-Man Che Konam.mp3,mp3
+190,Ashofteh,Mahasti,Mahasti 2 - Molan Rojh,4,1993,05:19,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/4-Ashofteh.mp3,mp3
+191,Ousta Karim,Mahasti,Mahasti 2 - Molan Rojh,5,1993,05:04,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/5-Ousta Karim.mp3,mp3
+192,Sedayam Kon,Mahasti,Mahasti 2 - Molan Rojh,6,1993,04:10,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/6-Sedayam Kon.mp3,mp3
+193,Music,Mahasti,Mahasti 2 - Molan Rojh,7,1993,04:06,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/7-Music.mp3,mp3
+194,Bazicheh,Mahasti,Mahasti 2 - Molan Rojh,8,1993,04:37,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/8-Bazicheh.mp3,mp3
+195,Cheraghe Omr,Mahasti,Mahasti 2 - Molan Rojh,9,1993,04:45,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Molan Rojh/9-Cheraghe Omr.mp3,mp3
+196,Chashm Siyah,Mahasti,Shirino Farhad,1,1970,05:38,/var/home/miladsharifiteh/Music/Mahasti/Shirino Farhad/1-Chashm Siyah.mp3,mp3
+197,Khodaya Nemidanam,Mahasti,Shirino Farhad,2,1970,02:20,/var/home/miladsharifiteh/Music/Mahasti/Shirino Farhad/2-Khodaya Nemidanam.mp3,mp3
+198,Emtehan,Mahasti,Az Khoda Khasteh,1,2004,04:09,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/1-Emtehan.mp3,mp3
+199,Donya,Mahasti,Az Khoda Khasteh,2,2004,05:01,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/2-Donya.mp3,mp3
+200,Violin (Instrumental),Mahasti,Az Khoda Khasteh,3,2004,01:04,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/3-Violin (Instrumental).mp3,mp3
+201,Zendegi,Mahasti,Az Khoda Khasteh,4,2004,04:58,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/4-Zendegi.mp3,mp3
+202,Taghat,Mahasti,Az Khoda Khasteh,5,2004,07:02,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/5-Taghat.mp3,mp3
+203,Vaghti Raftam,Mahasti,Az Khoda Khasteh,6,2004,05:22,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/6-Vaghti Raftam.mp3,mp3
+204,Fekr Nakoni,Mahasti,Az Khoda Khasteh,7,2004,06:24,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/7-Fekr Nakoni.mp3,mp3
+205,Az Khoda Khasteh,Mahasti,Az Khoda Khasteh,8,2004,04:52,/var/home/miladsharifiteh/Music/Mahasti/Az Khoda Khasteh/8-Az Khoda Khasteh.mp3,mp3
+206,Dele Mennat Kesh,Mahasti,Dele Mennat Kesh - Saghi,1,1972,06:00,/var/home/miladsharifiteh/Music/Mahasti/Dele Mennat Kesh - Saghi/1-Dele Mennat Kesh.mp3,mp3
+207,Saghi,Mahasti,Dele Mennat Kesh - Saghi,2,1972,06:11,/var/home/miladsharifiteh/Music/Mahasti/Dele Mennat Kesh - Saghi/2-Saghi.mp3,mp3
+208,Gonah Che Kardam Magar Khodaya,Mahasti,Gonah Che Kardam - Sokout,1,1968,03:23,/var/home/miladsharifiteh/Music/Mahasti/Gonah Che Kardam - Sokout/1-Gonah Che Kardam Magar Khodaya.mp3,mp3
+209,Sokoute Javdan,Mahasti,Gonah Che Kardam - Sokout,2,1968,06:30,/var/home/miladsharifiteh/Music/Mahasti/Gonah Che Kardam - Sokout/2-Sokoute Javdan.mp3,mp3
+210,Parastouha,Mahasti,Masti,1,1992,05:45,/var/home/miladsharifiteh/Music/Mahasti/Masti/1-Parastouha.mp3,mp3
+211,Mohabbat,Mahasti,Masti,2,1992,05:26,/var/home/miladsharifiteh/Music/Mahasti/Masti/2-Mohabbat.mp3,mp3
+212,Peymaneh,Mahasti,Masti,3,1992,04:27,/var/home/miladsharifiteh/Music/Mahasti/Masti/3-Peymaneh.mp3,mp3
+213,Ayeneye Shekasteh,Mahasti,Masti,4,1992,05:38,/var/home/miladsharifiteh/Music/Mahasti/Masti/4-Ayeneye Shekasteh.mp3,mp3
+214,Vedae,Mahasti,Masti,5,1992,05:02,/var/home/miladsharifiteh/Music/Mahasti/Masti/5-Vedae.mp3,mp3
+215,Masti,Mahasti,Masti,6,1992,07:39,/var/home/miladsharifiteh/Music/Mahasti/Masti/6-Masti.mp3,mp3
+216,Saghi Joun,Mahasti,Masti,7,1992,04:36,/var/home/miladsharifiteh/Music/Mahasti/Masti/7-Saghi Joun.mp3,mp3
+217,Asir,Mahasti,Masti,8,1992,04:59,/var/home/miladsharifiteh/Music/Mahasti/Masti/8-Asir.mp3,mp3
+218,Delhaye Khasteh,Mahasti,Masti,9,1992,06:24,/var/home/miladsharifiteh/Music/Mahasti/Masti/9-Delhaye Khasteh.mp3,mp3
+219,Asemoun Ba Mano To Ghahreh Digeh,Mahasti,Asemoun - Namiri Elahi,1,1972,04:35,/var/home/miladsharifiteh/Music/Mahasti/Asemoun - Namiri Elahi/1-Asemoun Ba Mano To Ghahreh Digeh.mp3,mp3
+220,Namiri Elahi,Mahasti,Asemoun - Namiri Elahi,2,1972,04:30,/var/home/miladsharifiteh/Music/Mahasti/Asemoun - Namiri Elahi/2-Namiri Elahi.mp3,mp3
+221,Deleh In,Mahasti,Deleh In (Homayoun),1,1970,04:14,/var/home/miladsharifiteh/Music/Mahasti/Deleh In (Homayoun)/1-Deleh In.mp3,mp3
+222,Havaye Yar,Mahasti,Golden Songs 1,31,1994,05:14,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/31-Havaye Yar.mp3,mp3
+223,Banafsheh,Mahasti,Golden Songs 1,40,1994,04:44,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/40-Banafsheh.mp3,mp3
+224,Ghasam,Mahasti,Golden Songs 1,32,1994,04:20,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/32-Ghasam.mp3,mp3
+225,Doa,Mahasti,Golden Songs 1,33,1994,03:34,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/33-Doa.mp3,mp3
+226,Ashki Baram Namoundeh,Mahasti,Golden Songs 1,34,1994,03:38,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/34-Ashki Baram Namoundeh.mp3,mp3
+227,Dele Mennat Kesh,Mahasti,Golden Songs 1,35,1994,06:01,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/35-Dele Mennat Kesh.mp3,mp3
+228,Vay Behalet,Mahasti,Golden Songs 1,36,1994,04:59,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/36-Vay Behalet.mp3,mp3
+229,Bastare Gham,Mahasti,Golden Songs 1,37,1994,07:00,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/37-Bastare Gham.mp3,mp3
+230,Del Migeh Delbar Miad,Mahasti,Golden Songs 1,38,1994,04:44,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/38-Del Migeh Delbar Miad.mp3,mp3
+231,Ashofteh,Mahasti,Golden Songs 1,39,1994,05:42,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/39-Ashofteh.mp3,mp3
+232,Khouneh Tekouni,Mahasti,Golden Songs 1,1,1994,03:10,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/1-Khouneh Tekouni.mp3,mp3
+233,Sabro Taghat,Mahasti,Golden Songs 1,10,1994,04:08,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/10-Sabro Taghat.mp3,mp3
+234,Ghesseye Ma,Mahasti,Golden Songs 1,2,1994,04:20,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/2-Ghesseye Ma.mp3,mp3
+235,Bacheh Nasho Ey Del,Mahasti,Golden Songs 1,3,1994,03:45,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/3-Bacheh Nasho Ey Del.mp3,mp3
+236,Del Ke Gonahi Nadareh,Mahasti,Golden Songs 1,4,1994,04:10,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/4-Del Ke Gonahi Nadareh.mp3,mp3
+237,Man Che Konam,Mahasti,Golden Songs 1,5,1994,04:32,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/5-Man Che Konam.mp3,mp3
+238,Man Digeh Yar Nemikham,Mahasti,Golden Songs 1,6,1994,03:58,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/6-Man Digeh Yar Nemikham.mp3,mp3
+239,Shakheh Nabat,Mahasti,Golden Songs 1,7,1994,04:06,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/7-Shakheh Nabat.mp3,mp3
+240,Kamboud,Mahasti,Golden Songs 1,8,1994,06:54,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/8-Kamboud.mp3,mp3
+241,Dalghak,Mahasti,Golden Songs 1,9,1994,06:42,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/9-Dalghak.mp3,mp3
+242,Biganeh,Mahasti,Golden Songs 1,11,1994,04:53,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/11-Biganeh.mp3,mp3
+243,Elahi Bemouni,Mahasti,Golden Songs 1,20,1994,05:17,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/20-Elahi Bemouni.mp3,mp3
+244,Ashegh Shodan Bihaseleh,Mahasti,Golden Songs 1,12,1994,06:18,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/12-Ashegh Shodan Bihaseleh.mp3,mp3
+245,Labkhand,Mahasti,Golden Songs 1,13,1994,04:21,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/13-Labkhand.mp3,mp3
+246,Sedayam Kon,Mahasti,Golden Songs 1,14,1994,03:58,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/14-Sedayam Kon.mp3,mp3
+247,Mageh Na,Mahasti,Golden Songs 1,15,1994,05:28,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/15-Mageh Na.mp3,mp3
+248,Jodaei,Mahasti,Golden Songs 1,16,1994,06:13,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/16-Jodaei.mp3,mp3
+249,Deleh In,Mahasti,Golden Songs 1,17,1994,05:04,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/17-Deleh In.mp3,mp3
+250,Faryad,Mahasti,Golden Songs 1,18,1994,04:08,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/18-Faryad.mp3,mp3
+251,Nemikhamet,Mahasti,Golden Songs 1,19,1994,03:58,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/19-Nemikhamet.mp3,mp3
+252,Cheragh,Mahasti,Golden Songs 1,21,1994,04:25,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/21-Cheragh.mp3,mp3
+253,Shabe Tarik,Mahasti,Golden Songs 1,30,1994,04:45,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/30-Shabe Tarik.mp3,mp3
+254,Gheblegah,Mahasti,Golden Songs 1,22,1994,05:17,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/22-Gheblegah.mp3,mp3
+255,Dorangi,Mahasti,Golden Songs 1,23,1994,04:51,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/23-Dorangi.mp3,mp3
+256,Delam Tangeh,Mahasti,Golden Songs 1,24,1994,04:42,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/24-Delam Tangeh.mp3,mp3
+257,Dota Cheshmoun,Mahasti,Golden Songs 1,25,1994,03:31,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/25-Dota Cheshmoun.mp3,mp3
+258,Darya,Mahasti,Golden Songs 1,26,1994,04:04,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/26-Darya.mp3,mp3
+259,Morghe Tokhm Tala,Mahasti,Golden Songs 1,27,1994,04:53,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/27-Morghe Tokhm Tala.mp3,mp3
+260,Biya Khouneh,Mahasti,Golden Songs 1,28,1994,05:13,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/28-Biya Khouneh.mp3,mp3
+261,Namiri Elahi,Mahasti,Golden Songs 1,29,1994,04:32,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 1/29-Namiri Elahi.mp3,mp3
+262,Saghi Bebin,Mahasti,Mahasti 1,1,1993,06:11,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/1-Saghi Bebin.mp3,mp3
+263,Del Ke Gonahi Nadareh,Mahasti,Mahasti 1,10,1993,04:10,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/10-Del Ke Gonahi Nadareh.mp3,mp3
+264,Delo Del Kosht Mano,Mahasti,Mahasti 1,11,1993,05:26,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/11-Delo Del Kosht Mano.mp3,mp3
+265,Khouneh Tekouni,Mahasti,Mahasti 1,12,1993,03:08,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/12-Khouneh Tekouni.mp3,mp3
+266,Del Migeh Delbar Miad,Mahasti,Mahasti 1,2,1993,04:43,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/2-Del Migeh Delbar Miad.mp3,mp3
+267,Dele Mennat Kesh,Mahasti,Mahasti 1,3,1993,06:00,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/3-Dele Mennat Kesh.mp3,mp3
+268,Man Digeh Yar Nemikham,Mahasti,Mahasti 1,4,1993,03:58,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/4-Man Digeh Yar Nemikham.mp3,mp3
+269,Gheblegah,Mahasti,Mahasti 1,5,1993,05:15,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/5-Gheblegah.mp3,mp3
+270,Bacheh Nasho Ey Del,Mahasti,Mahasti 1,6,1993,03:43,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/6-Bacheh Nasho Ey Del.mp3,mp3
+271,Sedaye Pa Miad,Mahasti,Mahasti 1,7,1993,07:12,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/7-Sedaye Pa Miad.mp3,mp3
+272,Vay Be Halet,Mahasti,Mahasti 1,8,1993,04:57,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/8-Vay Be Halet.mp3,mp3
+273,Tars Az Jodaei,Mahasti,Mahasti 1,9,1993,03:47,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 1/9-Tars Az Jodaei.mp3,mp3
+274,Sarabe Eshgh,Mahasti,Sarabe Eshgh,1,1996,04:59,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/1-Sarabe Eshgh.mp3,mp3
+275,Geleh Daram,Mahasti,Sarabe Eshgh,2,1996,05:41,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/2-Geleh Daram.mp3,mp3
+276,Ayeneye Shekasteh,Mahasti,Sarabe Eshgh,3,1996,06:40,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/3-Ayeneye Shekasteh.mp3,mp3
+277,Gole Pesteh,Mahasti,Sarabe Eshgh,4,1996,05:19,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/4-Gole Pesteh.mp3,mp3
+278,To Bezan Ta Man Beraghsam,Mahasti,Sarabe Eshgh,5,1996,03:13,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/5-To Bezan Ta Man Beraghsam.mp3,mp3
+279,To Ey Eshgh,Mahasti,Sarabe Eshgh,6,1996,04:14,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/6-To Ey Eshgh.mp3,mp3
+280,Eide Mano To,Mahasti,Sarabe Eshgh,7,1996,03:25,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/7-Eide Mano To.mp3,mp3
+281,Mastiam,Mahasti,Sarabe Eshgh,8,1996,11:51,/var/home/miladsharifiteh/Music/Mahasti/Sarabe Eshgh/8-Mastiam.mp3,mp3
+282,Biganeh,Mahasti,Biganeh 2,1,1993,04:52,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/1-Biganeh.mp3,mp3
+283,Cheragh,Mahasti,Biganeh 2,10,1993,04:26,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/10-Cheragh.mp3,mp3
+284,Atre Bahar,Mahasti,Biganeh 2,11,1993,03:52,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/11-Atre Bahar.mp3,mp3
+285,Shakheh Nabat,Mahasti,Biganeh 2,12,1993,04:08,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/12-Shakheh Nabat.mp3,mp3
+286,Ashegh Shodan Bi Haseleh,Mahasti,Biganeh 2,13,1993,06:17,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/13-Ashegh Shodan Bi Haseleh.mp3,mp3
+287,Del Migeh Delbar Miad,Mahasti,Biganeh 2,14,1993,04:43,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/14-Del Migeh Delbar Miad.mp3,mp3
+288,Man Digeh Yar Nemikham,Mahasti,Biganeh 2,15,1993,03:58,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/15-Man Digeh Yar Nemikham.mp3,mp3
+289,Gol Hamrahe Nasim,Mahasti,Biganeh 2,16,1993,05:05,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/16-Gol Hamrahe Nasim.mp3,mp3
+290,Magiresh Az Man,Mahasti,Biganeh 2,2,1993,04:38,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/2-Magiresh Az Man.mp3,mp3
+291,Gheblegah,Mahasti,Biganeh 2,3,1993,05:15,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/3-Gheblegah.mp3,mp3
+292,Labkhand,Mahasti,Biganeh 2,4,1993,04:19,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/4-Labkhand.mp3,mp3
+293,Taasof,Mahasti,Biganeh 2,5,1993,03:57,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/5-Taasof.mp3,mp3
+294,Kamboud,Mahasti,Biganeh 2,6,1993,06:52,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/6-Kamboud.mp3,mp3
+295,Dorangi,Mahasti,Biganeh 2,7,1993,04:50,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/7-Dorangi.mp3,mp3
+296,Delam Tangeh,Mahasti,Biganeh 2,8,1993,04:40,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/8-Delam Tangeh.mp3,mp3
+297,Nazan Sang,Mahasti,Biganeh 2,9,1993,04:50,/var/home/miladsharifiteh/Music/Mahasti/Biganeh 2/9-Nazan Sang.mp3,mp3
+298,Ghasam,Mahasti,Ghasam - Morghe Tokhm Tala,1,1972,04:23,/var/home/miladsharifiteh/Music/Mahasti/Ghasam - Morghe Tokhm Tala/1-Ghasam.mp3,mp3
+299,Morghe Tokhm Tala,Mahasti,Ghasam - Morghe Tokhm Tala,2,1972,05:03,/var/home/miladsharifiteh/Music/Mahasti/Ghasam - Morghe Tokhm Tala/2-Morghe Tokhm Tala.mp3,mp3
+300,Jodaeiye To,Mahasti,Jodaeiye To,1,1970,05:19,/var/home/miladsharifiteh/Music/Mahasti/Jodaeiye To/1-Jodaeiye To.mp3,mp3
+301,Parandeye Mohajer,Mahasti,Parandeye Mohajer 2,1,1999,05:09,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/1-Parandeye Mohajer.mp3,mp3
+302,Ey Khoda Che Konam,Mahasti,Parandeye Mohajer 2,10,1999,04:22,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/10-Ey Khoda Che Konam.mp3,mp3
+303,Digeh Basameh,Mahasti,Parandeye Mohajer 2,11,1999,05:38,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/11-Digeh Basameh.mp3,mp3
+304,Ankeh Delam Ra,Mahasti,Parandeye Mohajer 2,12,1999,08:45,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/12-Ankeh Delam Ra.mp3,mp3
+305,Rahe Kourosh,Mahasti,Parandeye Mohajer 2,13,1999,06:33,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/13-Rahe Kourosh.mp3,mp3
+306,Sabou Sabou,Mahasti,Parandeye Mohajer 2,14,1999,05:28,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/14-Sabou Sabou.mp3,mp3
+307,Digar Che Khahi,Mahasti,Parandeye Mohajer 2,15,1999,08:01,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/15-Digar Che Khahi.mp3,mp3
+308,Ketabe Hasti,Mahasti,Parandeye Mohajer 2,16,1999,05:41,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/16-Ketabe Hasti.mp3,mp3
+309,Meykhouneh,Mahasti,Parandeye Mohajer 2,2,1999,06:39,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/2-Meykhouneh.mp3,mp3
+310,Ketabe Hasti,Mahasti,Parandeye Mohajer 2,3,1999,04:20,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/3-Ketabe Hasti.mp3,mp3
+311,Dar Koucheh Sare Shab,Mahasti,Parandeye Mohajer 2,4,1999,06:41,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/4-Dar Koucheh Sare Shab.mp3,mp3
+312,Nakhostin Eshgh,Mahasti,Parandeye Mohajer 2,5,1999,03:03,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/5-Nakhostin Eshgh.mp3,mp3
+313,Ousta Karim,Mahasti,Parandeye Mohajer 2,6,1999,05:08,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/6-Ousta Karim.mp3,mp3
+314,Baede Khoda,Mahasti,Parandeye Mohajer 2,7,1999,07:06,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/7-Baede Khoda.mp3,mp3
+315,Chashm Siyah,Mahasti,Parandeye Mohajer 2,8,1999,05:38,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/8-Chashm Siyah.mp3,mp3
+316,Gonahi Nadaram,Mahasti,Parandeye Mohajer 2,9,1999,03:46,/var/home/miladsharifiteh/Music/Mahasti/Parandeye Mohajer 2/9-Gonahi Nadaram.mp3,mp3
+317,Ay Bahareh,Mahasti,Avazak,1,1999,04:30,/var/home/miladsharifiteh/Music/Mahasti/Avazak/1-Ay Bahareh.mp3,mp3
+318,Avazak,Mahasti,Avazak,2,1999,03:59,/var/home/miladsharifiteh/Music/Mahasti/Avazak/2-Avazak.mp3,mp3
+319,Dirouzo Emrouz,Mahasti,Avazak,3,1999,05:26,/var/home/miladsharifiteh/Music/Mahasti/Avazak/3-Dirouzo Emrouz.mp3,mp3
+320,Vedae Dar Oj,Mahasti,Avazak,4,1999,05:01,/var/home/miladsharifiteh/Music/Mahasti/Avazak/4-Vedae Dar Oj.mp3,mp3
+321,Benevis,Mahasti,Avazak,5,1999,03:57,/var/home/miladsharifiteh/Music/Mahasti/Avazak/5-Benevis.mp3,mp3
+322,Tanha Toro Mishenasam,Mahasti,Avazak,6,1999,04:15,/var/home/miladsharifiteh/Music/Mahasti/Avazak/6-Tanha Toro Mishenasam.mp3,mp3
+323,Hamseda,Mahasti,Deldadeh,1,2001,05:08,/var/home/miladsharifiteh/Music/Mahasti/Deldadeh/1-Hamseda.mp3,mp3
+324,Montazer Khabeh,Mahasti,Deldadeh,2,2001,04:09,/var/home/miladsharifiteh/Music/Mahasti/Deldadeh/2-Montazer Khabeh.mp3,mp3
+325,Baz Begou,Mahasti,Deldadeh,3,2001,04:56,/var/home/miladsharifiteh/Music/Mahasti/Deldadeh/3-Baz Begou.mp3,mp3
+326,Nemibakhsham Toro,Mahasti,Deldadeh,4,2001,03:50,/var/home/miladsharifiteh/Music/Mahasti/Deldadeh/4-Nemibakhsham Toro.mp3,mp3
+327,Bi To Mimiram,Mahasti,Deldadeh,5,2001,05:19,/var/home/miladsharifiteh/Music/Mahasti/Deldadeh/5-Bi To Mimiram.mp3,mp3
+328,Deldadeh,Mahasti,Deldadeh,6,2001,05:04,/var/home/miladsharifiteh/Music/Mahasti/Deldadeh/6-Deldadeh.mp3,mp3
+329,Golhaye Rangarang (576),Mahasti,Golhaye Mahasti 3,1,1979,30:01,/var/home/miladsharifiteh/Music/Mahasti/Golhaye Mahasti 3/1-Golhaye Rangarang (576).mp3,mp3
+330,Golhaye Rangarang (545),Mahasti,Golhaye Mahasti 3,2,1979,29:06,/var/home/miladsharifiteh/Music/Mahasti/Golhaye Mahasti 3/2-Golhaye Rangarang (545).mp3,mp3
+331,Man Digeh Yar Nemikham,Mahasti,Man Digeh Yar Nemikham - Tars,1,1971,03:58,/var/home/miladsharifiteh/Music/Mahasti/Man Digeh Yar Nemikham - Tars/1-Man Digeh Yar Nemikham.mp3,mp3
+332,Tars Az Jodaei,Mahasti,Man Digeh Yar Nemikham - Tars,2,1971,03:50,/var/home/miladsharifiteh/Music/Mahasti/Man Digeh Yar Nemikham - Tars/2-Tars Az Jodaei.mp3,mp3
+333,Khoda Negahdar,Mahasti,To Bezan Ta Man Beraghsam,1,1999,04:56,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/1-Khoda Negahdar.mp3,mp3
+334,Azize Rafteh,Mahasti,To Bezan Ta Man Beraghsam,2,1999,05:14,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/2-Azize Rafteh.mp3,mp3
+335,To Bezan Ta Man Beraghsam,Mahasti,To Bezan Ta Man Beraghsam,3,1999,03:19,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/3-To Bezan Ta Man Beraghsam.mp3,mp3
+336,Nazi Nazi,Mahasti,To Bezan Ta Man Beraghsam,4,1999,03:51,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/4-Nazi Nazi.mp3,mp3
+337,Sahar,Mahasti,To Bezan Ta Man Beraghsam,5,1999,03:06,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/5-Sahar.mp3,mp3
+338,Eide Mano To,Mahasti,To Bezan Ta Man Beraghsam,6,1999,03:31,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/6-Eide Mano To.mp3,mp3
+339,Tehran,Mahasti,To Bezan Ta Man Beraghsam,7,1999,04:00,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/7-Tehran.mp3,mp3
+340,Khoda,Mahasti,To Bezan Ta Man Beraghsam,8,1999,05:12,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/8-Khoda.mp3,mp3
+341,To Ey Eshgh,Mahasti,To Bezan Ta Man Beraghsam,9,1999,04:30,/var/home/miladsharifiteh/Music/Mahasti/To Bezan Ta Man Beraghsam/9-To Ey Eshgh.mp3,mp3
+342,Biya Khouneh,Mahasti,Biya Khouneh - Cheraghe Omr,1,1973,05:13,/var/home/miladsharifiteh/Music/Mahasti/Biya Khouneh - Cheraghe Omr/1-Biya Khouneh.mp3,mp3
+343,Cheraghe Omr,Mahasti,Biya Khouneh - Cheraghe Omr,2,1973,04:33,/var/home/miladsharifiteh/Music/Mahasti/Biya Khouneh - Cheraghe Omr/2-Cheraghe Omr.mp3,mp3
+344,Douset Daram Baede Khoda,Mahasti,Douset Daram Baede Khoda,1,1973,07:16,/var/home/miladsharifiteh/Music/Mahasti/Douset Daram Baede Khoda/1-Douset Daram Baede Khoda.mp3,mp3
+345,Havaye Yar,Mahasti,Havaye Yar,1,1993,05:15,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/1-Havaye Yar.mp3,mp3
+346,Sedayam Kon,Mahasti,Havaye Yar,10,1993,04:01,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/10-Sedayam Kon.mp3,mp3
+347,Digar Che Mikhahi,Mahasti,Havaye Yar,11,1993,06:32,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/11-Digar Che Mikhahi.mp3,mp3
+348,Tars Az Jodaei,Mahasti,Havaye Yar,12,1993,03:49,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/12-Tars Az Jodaei.mp3,mp3
+349,Sedaye Pa Miad,Mahasti,Havaye Yar,13,1993,06:16,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/13-Sedaye Pa Miad.mp3,mp3
+350,Bastare Gham,Mahasti,Havaye Yar,14,1993,06:58,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/14-Bastare Gham.mp3,mp3
+351,Sabro Taghat,Mahasti,Havaye Yar,2,1993,04:11,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/2-Sabro Taghat.mp3,mp3
+352,Biya Khouneh,Mahasti,Havaye Yar,3,1993,05:12,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/3-Biya Khouneh.mp3,mp3
+353,Cheraghe Omr,Mahasti,Havaye Yar,4,1993,04:33,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/4-Cheraghe Omr.mp3,mp3
+354,Dalghak,Mahasti,Havaye Yar,5,1993,06:43,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/5-Dalghak.mp3,mp3
+355,Cheragh,Mahasti,Havaye Yar,6,1993,04:24,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/6-Cheragh.mp3,mp3
+356,Ghame Donya,Mahasti,Havaye Yar,7,1993,05:39,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/7-Ghame Donya.mp3,mp3
+357,Del Az To Delgireh,Mahasti,Havaye Yar,8,1993,04:48,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/8-Del Az To Delgireh.mp3,mp3
+358,Eshghe Bazigar,Mahasti,Havaye Yar,9,1993,06:40,/var/home/miladsharifiteh/Music/Mahasti/Havaye Yar/9-Eshghe Bazigar.mp3,mp3
+359,Mehmoun Navazi,Mahasti,Nameh,1,1994,04:39,/var/home/miladsharifiteh/Music/Mahasti/Nameh/1-Mehmoun Navazi.mp3,mp3
+360,Nameh,Mahasti,Nameh,2,1994,05:18,/var/home/miladsharifiteh/Music/Mahasti/Nameh/2-Nameh.mp3,mp3
+361,Harfaye Ghashang,Mahasti,Nameh,3,1994,04:57,/var/home/miladsharifiteh/Music/Mahasti/Nameh/3-Harfaye Ghashang.mp3,mp3
+362,Ghadima,Mahasti,Nameh,4,1994,04:49,/var/home/miladsharifiteh/Music/Mahasti/Nameh/4-Ghadima.mp3,mp3
+363,Saraye Mohabbat,Mahasti,Nameh,5,1994,05:19,/var/home/miladsharifiteh/Music/Mahasti/Nameh/5-Saraye Mohabbat.mp3,mp3
+364,Douste Man,Mahasti,Nameh,6,1994,05:38,/var/home/miladsharifiteh/Music/Mahasti/Nameh/6-Douste Man.mp3,mp3
+365,Harfe Akhar Ra Bezan,Mahasti,Ashofteh 2,4,1993,05:01,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/4-Harfe Akhar Ra Bezan.mp3,mp3
+366,Ashofteh,Mahasti,Ashofteh 2,1,1993,05:41,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/1-Ashofteh.mp3,mp3
+367,Jodaei,Mahasti,Ashofteh 2,10,1993,06:16,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/10-Jodaei.mp3,mp3
+368,Saghi Bebin,Mahasti,Ashofteh 2,11,1993,06:11,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/11-Saghi Bebin.mp3,mp3
+369,Deleh In,Mahasti,Ashofteh 2,12,1993,05:02,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/12-Deleh In.mp3,mp3
+370,Del Ke Gonahi Nadareh,Mahasti,Ashofteh 2,13,1993,04:10,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/13-Del Ke Gonahi Nadareh.mp3,mp3
+371,Delo Del Kosht Mano,Mahasti,Ashofteh 2,14,1993,05:26,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/14-Delo Del Kosht Mano.mp3,mp3
+372,Banafsheh,Mahasti,Ashofteh 2,2,1993,04:47,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/2-Banafsheh.mp3,mp3
+373,Asemoun Ba Mano To Ghahreh Digeh,Mahasti,Ashofteh 2,3,1993,04:35,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/3-Asemoun Ba Mano To Ghahreh Digeh.mp3,mp3
+374,Faryad,Mahasti,Ashofteh 2,5,1993,04:12,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/5-Faryad.mp3,mp3
+375,Doa,Mahasti,Ashofteh 2,6,1993,03:35,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/6-Doa.mp3,mp3
+376,Dota Cheshmoun,Mahasti,Ashofteh 2,7,1993,04:00,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/7-Dota Cheshmoun.mp3,mp3
+377,Mageh Na,Mahasti,Ashofteh 2,8,1993,05:29,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/8-Mageh Na.mp3,mp3
+378,Ghesseye Ma,Mahasti,Ashofteh 2,9,1993,04:20,/var/home/miladsharifiteh/Music/Mahasti/Ashofteh 2/9-Ghesseye Ma.mp3,mp3
+379,Ashegh Shodan Bi Haseleh,Mahasti,Del Migeh Delbar Miad,1,1996,06:17,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/1-Ashegh Shoden Bi Haseleh.mp3,mp3
+380,Del Migeh Delbar Miad,Mahasti,Del Migeh Delbar Miad,2,1996,04:43,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/2-Del Migeh Delbar Miad.mp3,mp3
+381,Man Digeh Yar Nemikham,Mahasti,Del Migeh Delbar Miad,3,1996,03:58,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/3-Man Digeh Yar Nemikham.mp3,mp3
+382,Gol Hamrahe Nasim,Mahasti,Del Migeh Delbar Miad,4,1996,05:04,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/4-Gol Hamrahe Nasim.mp3,mp3
+383,Degar Che Mikhahi,Mahasti,Del Migeh Delbar Miad,5,1996,06:33,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/5-Degar Che Mikhahi.mp3,mp3
+384,Tars Az Jodaei,Mahasti,Del Migeh Delbar Miad,6,1996,03:50,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/6-Tars Az Jodaei.mp3,mp3
+385,Sedaye Pa Nemiad,Mahasti,Del Migeh Delbar Miad,7,1996,06:16,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/7-Sedaye Pa Nemiad.mp3,mp3
+386,Bastare Gham,Mahasti,Del Migeh Delbar Miad,8,1996,06:58,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/8-Bastare Gham.mp3,mp3
+387,Music,Mahasti,Del Migeh Delbar Miad,9,1996,04:21,/var/home/miladsharifiteh/Music/Mahasti/Del Migeh Delbar Miad/9-Music.mp3,mp3
+388,Golhaye Rangarang (420),Mahasti,Golhaye Mahasti 1,1,1979,28:57,/var/home/miladsharifiteh/Music/Mahasti/Golhaye Mahasti 1/1-Golhaye Rangarang (420).mp3,mp3
+389,Golhaye Rangarang (428),Mahasti,Golhaye Mahasti 1,2,1979,29:15,/var/home/miladsharifiteh/Music/Mahasti/Golhaye Mahasti 1/2-Golhaye Rangarang (428).mp3,mp3
+390,Ashofteh,Mahasti,Mahasti 3 - Jahan Music,1,1993,05:40,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/1-Ashofteh.mp3,mp3
+391,Jodaei,Mahasti,Mahasti 3 - Jahan Music,10,1993,05:17,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/10-Jodaei.mp3,mp3
+392,Banafsheh,Mahasti,Mahasti 3 - Jahan Music,2,1993,04:45,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/2-Banafsheh.mp3,mp3
+393,Asemoun Ba Mano To Ghahreh Digeh,Mahasti,Mahasti 3 - Jahan Music,3,1993,04:33,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/3-Asemoun Ba Mano To Ghahreh Digeh.mp3,mp3
+394,Harfe Akhar Ra Bezan,Mahasti,Mahasti 3 - Jahan Music,4,1993,05:18,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/4-Harfe Akhar Ra Bezan.mp3,mp3
+395,Faryad,Mahasti,Mahasti 3 - Jahan Music,5,1993,04:06,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/5-Faryad.mp3,mp3
+396,Doa,Mahasti,Mahasti 3 - Jahan Music,6,1993,03:31,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/6-Doa.mp3,mp3
+397,Dota Cheshmoun,Mahasti,Mahasti 3 - Jahan Music,7,1993,03:56,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/7-Dota Cheshmoun.mp3,mp3
+398,Mageh Na,Mahasti,Mahasti 3 - Jahan Music,8,1993,05:26,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/8-Mageh Na.mp3,mp3
+399,Sedaye Pa,Mahasti,Mahasti 3 - Jahan Music,9,1993,06:16,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 3 - Jahan Music/9-Sedaye Pa.mp3,mp3
+400,Ashegh Shodan Bi Haseleh,Mahasti,Ashegh Shodan Bi Haseleh (Shoushtari),1,1968,06:17,/var/home/miladsharifiteh/Music/Mahasti/Ashegh Shodan Bi Haseleh (Shoushtari)/1-Ashegh Shodan Bi Haseleh.mp3,mp3
+401,Saghi Bebin,Mahasti,Del Ke Gonahi Nadareh,1,1996,06:05,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/1-Saghi Bebin.mp3,mp3
+402,Jodaeiye To,Mahasti,Del Ke Gonahi Nadareh,10,1996,05:13,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/10-Jodaeiye To.mp3,mp3
+403,Soghati (Music),Mahasti,Del Ke Gonahi Nadareh,11,1996,02:28,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/11-Soghati (Music).mp3,mp3
+404,Deleh In,Mahasti,Del Ke Gonahi Nadareh,2,1996,04:59,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/2-Deleh In.mp3,mp3
+405,Del Ke Gonahi Nadareh,Mahasti,Del Ke Gonahi Nadareh,3,1996,04:06,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/3-Del Ke Gonahi Nadareh.mp3,mp3
+406,Delo Del Kosht Mano,Mahasti,Del Ke Gonahi Nadareh,4,1996,05:22,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/4-Delo Del Kosht Mano.mp3,mp3
+407,Biganeh,Mahasti,Del Ke Gonahi Nadareh,5,1996,04:50,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/5-Biganeh.mp3,mp3
+408,Dele Mennat Kesh,Mahasti,Del Ke Gonahi Nadareh,6,1996,05:57,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/6-Dele Mennat Kesh.mp3,mp3
+409,Bacheh Nasho Ey Del,Mahasti,Del Ke Gonahi Nadareh,7,1996,03:41,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/7-Bacheh Nasho Ey Del.mp3,mp3
+410,Vay Be Halet,Mahasti,Del Ke Gonahi Nadareh,8,1996,04:54,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/8-Vay Be Halet.mp3,mp3
+411,Khouneh Tekouni,Mahasti,Del Ke Gonahi Nadareh,9,1996,03:05,/var/home/miladsharifiteh/Music/Mahasti/Del Ke Gonahi Nadareh/9-Khouneh Tekouni.mp3,mp3
+412,Baroune Ehsas,Mahasti,Golden Songs 2,21,2007,04:33,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/21-Baroune Ehsas.mp3,mp3
+413,Nameh,Mahasti,Golden Songs 2,30,2007,05:16,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/30-Nameh.mp3,mp3
+414,Bar Bad Rafteh,Mahasti,Golden Songs 2,22,2007,03:46,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/22-Bar Bad Rafteh.mp3,mp3
+415,Parandeye Mohajer,Mahasti,Golden Songs 2,23,2007,05:07,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/23-Parandeye Mohajer.mp3,mp3
+416,Cheraghe Omr,Mahasti,Golden Songs 2,24,2007,04:34,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/24-Cheraghe Omr.mp3,mp3
+417,Mehmoun Navazi,Mahasti,Golden Songs 2,25,2007,04:40,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/25-Mehmoun Navazi.mp3,mp3
+418,Harfaye Gashang,Mahasti,Golden Songs 2,26,2007,04:57,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/26-Harfaye Gashang.mp3,mp3
+419,Ghadima,Mahasti,Golden Songs 2,27,2007,04:51,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/27-Ghadima.mp3,mp3
+420,Douste Man,Mahasti,Golden Songs 2,28,2007,05:40,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/28-Douste Man.mp3,mp3
+421,Saraye Mohabbat,Mahasti,Golden Songs 2,29,2007,05:19,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/29-Saraye Mohabbat.mp3,mp3
+422,Meykhaneh,Mahasti,Golden Songs 2,31,2007,06:39,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/31-Meykhaneh.mp3,mp3
+423,Del Az To Delgireh,Mahasti,Golden Songs 2,40,2007,04:47,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/40-Del Az To Delgireh.mp3,mp3
+424,Donbale Che Migardi,Mahasti,Golden Songs 2,32,2007,06:29,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/32-Donbale Che Migardi.mp3,mp3
+425,Kash,Mahasti,Golden Songs 2,33,2007,07:15,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/33-Kash.mp3,mp3
+426,Moj,Mahasti,Golden Songs 2,34,2007,08:12,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/34-Moj.mp3,mp3
+427,Noresideh,Mahasti,Golden Songs 2,35,2007,05:47,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/35-Noresideh.mp3,mp3
+428,Kami Ba Man Modara Kon,Mahasti,Golden Songs 2,36,2007,06:01,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/36-Kami Ba Man Modara Kon.mp3,mp3
+429,Saketo Sardi Chera,Mahasti,Golden Songs 2,37,2007,05:48,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/37-Saketo Sardi Chera.mp3,mp3
+430,Bouye Nouno Bouye Gandom,Mahasti,Golden Songs 2,38,2007,04:08,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/38-Bouye Nouno Bouye Gandom.mp3,mp3
+431,Tanhaei Jodaei,Mahasti,Golden Songs 2,39,2007,04:00,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/39-Tanhaei Jodaei.mp3,mp3
+432,Bazicheh,Mahasti,Golden Songs 2,1,2007,04:23,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/1-Bazicheh.mp3,mp3
+433,Hezar Sal Engar Toro Nadidam,Mahasti,Golden Songs 2,10,2007,04:27,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/10-Hezar Sal Engar Toro Nadidam.mp3,mp3
+434,Delo Del Kosht Mano,Mahasti,Golden Songs 2,2,2007,05:24,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/2-Delo Del Kosht Mano.mp3,mp3
+435,Nazan Sang,Mahasti,Golden Songs 2,3,2007,04:50,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/3-Nazan Sang.mp3,mp3
+436,Magiresh Az Man,Mahasti,Golden Songs 2,4,2007,04:39,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/4-Magiresh Az Man.mp3,mp3
+437,Jodaei,Mahasti,Golden Songs 2,5,2007,05:19,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/5-Jodaei.mp3,mp3
+438,Asemoun Ba Mano To Ghahreh Digeh,Mahasti,Golden Songs 2,6,2007,04:35,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/6-Asemoun Ba Mano To Ghahreh Digeh.mp3,mp3
+439,Rosvaye Zamouneh,Mahasti,Golden Songs 2,7,2007,09:25,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/7-Rosvaye Zamouneh.mp3,mp3
+440,Rasme Deldari,Mahasti,Golden Songs 2,8,2007,02:32,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/8-Rasme Deldari.mp3,mp3
+441,Sharik,Mahasti,Golden Songs 2,9,2007,04:51,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/9-Sharik.mp3,mp3
+442,Saghi Bebin,Mahasti,Golden Songs 2,11,2007,06:10,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/11-Saghi Bebin.mp3,mp3
+443,Maro Safar,Mahasti,Golden Songs 2,20,2007,03:01,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/20-Maro Safar.mp3,mp3
+444,Ghame Donya,Mahasti,Golden Songs 2,12,2007,05:38,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/12-Ghame Donya.mp3,mp3
+445,Harfe Akharat Ra Bezan,Mahasti,Golden Songs 2,13,2007,05:02,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/13-Harfe Akharat Ra Bezan.mp3,mp3
+446,Taasof,Mahasti,Golden Songs 2,14,2007,03:59,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/14-Taasof.mp3,mp3
+447,Atre Bahar,Mahasti,Golden Songs 2,15,2007,03:52,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/15-Atre Bahar.mp3,mp3
+448,Nasim,Mahasti,Golden Songs 2,16,2007,05:06,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/16-Nasim.mp3,mp3
+449,Bazigar,Mahasti,Golden Songs 2,17,2007,06:40,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/17-Bazigar.mp3,mp3
+450,Sharik,Mahasti,Golden Songs 2,18,2007,05:18,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/18-Sharik.mp3,mp3
+451,Mehman,Mahasti,Golden Songs 2,19,2007,04:51,/var/home/miladsharifiteh/Music/Mahasti/Golden Songs 2/19-Mehman.mp3,mp3
+452,Elahi Bemouni,Mahasti,Mahasti 2 - Armaghan,1,1993,05:18,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/1-Elahi Bemouni.mp3,mp3
+453,Ghesseh,Mahasti,Mahasti 2 - Armaghan,10,1993,04:20,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/10-Ghesseh.mp3,mp3
+454,Jodaei,Mahasti,Mahasti 2 - Armaghan,11,1993,05:17,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/11-Jodaei.mp3,mp3
+455,Dota Cheshmoun,Mahasti,Mahasti 2 - Armaghan,12,1993,03:59,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/12-Dota Cheshmoun.mp3,mp3
+456,Mageh Na,Mahasti,Mahasti 2 - Armaghan,13,1993,05:29,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/13-Mageh Na.mp3,mp3
+457,Banafsheh,Mahasti,Mahasti 2 - Armaghan,2,1993,04:46,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/2-Banafsheh.mp3,mp3
+458,Tars Az Jodaei,Mahasti,Mahasti 2 - Armaghan,3,1993,03:50,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/3-Tars Az Jodaei.mp3,mp3
+459,Man Digeh Yar Nemikham,Mahasti,Mahasti 2 - Armaghan,4,1993,03:58,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/4-Man Digeh Yar Nemikham.mp3,mp3
+460,Deleh In,Mahasti,Mahasti 2 - Armaghan,5,1993,05:02,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/5-Deleh In.mp3,mp3
+461,Del Migeh Delbar Miad,Mahasti,Mahasti 2 - Armaghan,6,1993,04:43,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/6-Del Migeh Delbar Miad.mp3,mp3
+462,Digar Che Khahi,Mahasti,Mahasti 2 - Armaghan,7,1993,06:33,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/7-Digar Che Khahi.mp3,mp3
+463,Bacheh Nasho Ey Del,Mahasti,Mahasti 2 - Armaghan,8,1993,03:43,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/8-Bacheh Nasho Ey Del.mp3,mp3
+464,Namiri Elahi,Mahasti,Mahasti 2 - Armaghan,9,1993,04:30,/var/home/miladsharifiteh/Music/Mahasti/Mahasti 2 - Armaghan/9-Namiri Elahi.mp3,mp3
+465,Sepidedam,Mahasti,Sepidedam,1,1991,06:28,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/1-Sepidedam.mp3,mp3
+466,Ghamgin Va Tanha,Mahasti,Sepidedam,10,1991,05:06,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/10-Ghamgin Va Tanha.mp3,mp3
+467,Mounes,Mahasti,Sepidedam,2,1991,03:39,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/2-Mounes.mp3,mp3
+468,Taeneh,Mahasti,Sepidedam,3,1991,05:10,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/3-Taeneh.mp3,mp3
+469,Ashena,Mahasti,Sepidedam,4,1991,05:26,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/4-Ashena.mp3,mp3
+470,Biya Benevisim,Mahasti,Sepidedam,5,1991,05:14,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/5-Biya Benevisim.mp3,mp3
+471,Barge Gol,Mahasti,Sepidedam,6,1991,06:22,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/6-Barge Gol.mp3,mp3
+472,Hanouz Ham Douset Daram,Mahasti,Sepidedam,7,1991,05:07,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/7-Hanouz Ham Douset Daram.mp3,mp3
+473,Tazeh,Mahasti,Sepidedam,8,1991,03:44,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/8-Tazeh.mp3,mp3
+474,Begozar,Mahasti,Sepidedam,9,1991,04:46,/var/home/miladsharifiteh/Music/Mahasti/Sepidedam/9-Begozar.mp3,mp3
+475,Ashki Baram Namoundeh,Mahasti,Behtarin Taranehayash 2,1,1976,03:29,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/1-Ashki Baram Namoundeh.mp3,mp3
+476,Saghi,Mahasti,Behtarin Taranehayash 2,10,1976,06:16,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/10-Saghi.mp3,mp3
+477,Del Ke Gonahi Nadareh,Mahasti,Behtarin Taranehayash 2,2,1976,04:04,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/2-Del Ke Gonahi Nadareh.mp3,mp3
+478,Dele Mennat Kesh,Mahasti,Behtarin Taranehayash 2,3,1976,05:50,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/3-Dele Mennat Kesh.mp3,mp3
+479,Vay Be Halet,Mahasti,Behtarin Taranehayash 2,4,1976,03:10,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/4-Vay Be Halet.mp3,mp3
+480,Khouneh Tekouni,Mahasti,Behtarin Taranehayash 2,5,1976,03:08,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/5-Khouneh Tekouni.mp3,mp3
+481,Jodaeiye To,Mahasti,Behtarin Taranehayash 2,6,1976,05:15,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/6-Jodaeiye To.mp3,mp3
+482,Digeh Base,Mahasti,Behtarin Taranehayash 2,7,1976,05:18,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/7-Digeh Base.mp3,mp3
+483,Delo Del,Mahasti,Behtarin Taranehayash 2,8,1976,05:28,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/8-Delo Del.mp3,mp3
+484,Bastare Gham,Mahasti,Behtarin Taranehayash 2,9,1976,06:56,/var/home/miladsharifiteh/Music/Mahasti/Behtarin Taranehayash 2/9-Bastare Gham.mp3,mp3
+485,Dota Cheshmoun,Mahasti,Dota Cheshmoun - Rosvaei,1,1973,03:58,/var/home/miladsharifiteh/Music/Mahasti/Dota Cheshmoun - Rosvaei/1-Dota Cheshmoun.mp3,mp3
+486,Rosvaei,Mahasti,Dota Cheshmoun - Rosvaei,2,1973,05:23,/var/home/miladsharifiteh/Music/Mahasti/Dota Cheshmoun - Rosvaei/2-Rosvaei.mp3,mp3
+487,Baroune Ehsas,Mahasti,Havaye Asheghi,1,1998,04:33,/var/home/miladsharifiteh/Music/Mahasti/Havaye Asheghi/1-Baroune Ehsas.mp3,mp3
+488,Hezar Bouneh,Mahasti,Havaye Asheghi,2,1998,04:01,/var/home/miladsharifiteh/Music/Mahasti/Havaye Asheghi/2-Hezar Bouneh.mp3,mp3
+489,Sharik,Mahasti,Havaye Asheghi,3,1998,05:18,/var/home/miladsharifiteh/Music/Mahasti/Havaye Asheghi/3-Sharik.mp3,mp3
+490,Havaye Asheghi,Mahasti,Havaye Asheghi,4,1998,04:51,/var/home/miladsharifiteh/Music/Mahasti/Havaye Asheghi/4-Havaye Asheghi.mp3,mp3
+491,Havasbaz,Mahasti,Havaye Asheghi,5,1998,04:42,/var/home/miladsharifiteh/Music/Mahasti/Havaye Asheghi/5-Havasbaz.mp3,mp3
+492,Hezar Sal Engar Toro Nadidam,Mahasti,Havaye Asheghi,6,1998,04:28,/var/home/miladsharifiteh/Music/Mahasti/Havaye Asheghi/6-Hezar Sal Engar Toro Nadidam.mp3,mp3
+493,Mosafer,Mahasti,Mosafer,1,1992,04:28,/var/home/miladsharifiteh/Music/Mahasti/Mosafer/1-Mosafer.mp3,mp3
+494,Azizam,Mahasti,Mosafer,2,1992,07:09,/var/home/miladsharifiteh/Music/Mahasti/Mosafer/2-Azizam.mp3,mp3
+495,Sayeye Eshgh,Mahasti,Mosafer,3,1992,05:46,/var/home/miladsharifiteh/Music/Mahasti/Mosafer/3-Sayeye Eshgh.mp3,mp3
+496,Eshghe Pak,Mahasti,Mosafer,4,1992,07:04,/var/home/miladsharifiteh/Music/Mahasti/Mosafer/4-Eshghe Pak.mp3,mp3
+497,Akharin Tabib,Mahasti,Mosafer,5,1992,05:33,/var/home/miladsharifiteh/Music/Mahasti/Mosafer/5-Akharin Tabib.mp3,mp3
+498,Ghafas,Mahasti,Mosafer,6,1992,04:07,/var/home/miladsharifiteh/Music/Mahasti/Mosafer/6-Ghafas.mp3,mp3
+499,Ahange Khali,Mahasti,40 Golden Hits,1,2008,01:32,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/1-Ahange Khali.mp3,mp3
+500,Taghsire Tost,Mahasti,40 Golden Hits,10,2008,03:56,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/10-Taghsire Tost.mp3,mp3
+501,Mosafer,Mahasti,40 Golden Hits,2,2008,02:59,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/2-Mosafer.mp3,mp3
+502,Mounes,Mahasti,40 Golden Hits,3,2008,03:41,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/3-Mounes.mp3,mp3
+503,Meykhouneh Bisharabeh,Mahasti,40 Golden Hits,4,2008,05:45,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/4-Meykhouneh Bisharabeh.mp3,mp3
+504,Dare  Basteh,Mahasti,40 Golden Hits,5,2008,05:01,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/5-Dare Basteh.mp3,mp3
+505,Labkhand,Mahasti,40 Golden Hits,6,2008,05:14,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/6-Labkhand.mp3,mp3
+506,Hoseleye Asheghi Nadaram,Mahasti,40 Golden Hits,7,2008,05:32,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/7-Hoseleye Asheghi Nadaram.mp3,mp3
+507,Bi Mohabbat,Mahasti,40 Golden Hits,8,2008,07:58,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/8-Bi Mohabbat.mp3,mp3
+508,Khoube Man,Mahasti,40 Golden Hits,9,2008,05:42,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/9-Khoube Man.mp3,mp3
+509,Azizam,Mahasti,40 Golden Hits,11,2008,07:13,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/11-Azizam.mp3,mp3
+510,Delam,Mahasti,40 Golden Hits,20,2008,06:38,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/20-Delam.mp3,mp3
+511,Sayeye Eshgh,Mahasti,40 Golden Hits,12,2008,05:47,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/12-Sayeye Eshgh.mp3,mp3
+512,Haghighat,Mahasti,40 Golden Hits,13,2008,04:34,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/13-Haghighat.mp3,mp3
+513,Bezar Man Khodam Basham,Mahasti,40 Golden Hits,14,2008,04:59,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/14-Bezar Man Khodam Basham.mp3,mp3
+514,Babate Eshgh,Mahasti,40 Golden Hits,15,2008,05:27,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/15-Babate Eshgh.mp3,mp3
+515,Nazi Nazi,Mahasti,40 Golden Hits,16,2008,03:50,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/16-Nazi Nazi.mp3,mp3
+516,To Bezan Ta Man Beraghsam,Mahasti,40 Golden Hits,17,2008,03:11,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/17-To Bezan Ta Man Beraghsam.mp3,mp3
+517,Sahar,Mahasti,40 Golden Hits,18,2008,03:03,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/18-Sahar.mp3,mp3
+518,Modara,Mahasti,40 Golden Hits,19,2008,05:03,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/19-Modara.mp3,mp3
+519,Sepidedam,Mahasti,40 Golden Hits,21,2008,06:30,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/21-Sepidedam.mp3,mp3
+520,Saboure Sharghi,Mahasti,40 Golden Hits,30,2008,04:51,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/30-Saboure Sharghi.mp3,mp3
+521,Taeneh,Mahasti,40 Golden Hits,22,2008,05:11,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/22-Taeneh.mp3,mp3
+522,Ashena,Mahasti,40 Golden Hits,23,2008,05:26,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/23-Ashena.mp3,mp3
+523,Biya Benevisim,Mahasti,40 Golden Hits,24,2008,05:15,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/24-Biya Benevisim.mp3,mp3
+524,Barge Gol,Mahasti,40 Golden Hits,25,2008,06:22,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/25-Barge Gol.mp3,mp3
+525,Hanouzam Douset Daram,Mahasti,40 Golden Hits,26,2008,05:07,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/26-Hanouzam Douset Daram.mp3,mp3
+526,Tazeh,Mahasti,40 Golden Hits,27,2008,03:44,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/27-Tazeh.mp3,mp3
+527,Bogzar,Mahasti,40 Golden Hits,28,2008,04:46,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/28-Bogzar.mp3,mp3
+528,Ghamgin Va Tanha,Mahasti,40 Golden Hits,29,2008,05:07,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/29-Ghamgin Va Tanha.mp3,mp3
+529,Bas Kon,Mahasti,40 Golden Hits,31,2008,07:12,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/31-Bas Kon.mp3,mp3
+530,Vedae,Mahasti,40 Golden Hits,40,2008,04:47,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/40-Vedae.mp3,mp3
+531,Eshghe Pak,Mahasti,40 Golden Hits,32,2008,07:04,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/32-Eshghe Pak.mp3,mp3
+532,Akharin Tabib,Mahasti,40 Golden Hits,33,2008,05:34,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/33-Akharin Tabib.mp3,mp3
+533,Nafas,Mahasti,40 Golden Hits,34,2008,04:10,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/34-Nafas.mp3,mp3
+534,Masti,Mahasti,40 Golden Hits,35,2008,07:39,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/35-Masti.mp3,mp3
+535,Asir,Mahasti,40 Golden Hits,36,2008,04:58,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/36-Asir.mp3,mp3
+536,Parastouha,Mahasti,40 Golden Hits,37,2008,05:40,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/37-Parastouha.mp3,mp3
+537,Mohabbat,Mahasti,40 Golden Hits,38,2008,05:23,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/38-Mohabbat.mp3,mp3
+538,Delhaye Khasteh,Mahasti,40 Golden Hits,39,2008,06:25,/var/home/miladsharifiteh/Music/Mahasti/40 Golden Hits/39-Delhaye Khasteh.mp3,mp3
+539,Binava Del,Mahasti,Binava Del,1,1990,05:08,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/1-Binava Del.mp3,mp3
+540,Yade Ou,Mahasti,Binava Del,10,1990,02:42,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/10-Yade Ou.mp3,mp3
+541,Dele Kouchoulou,Mahasti,Binava Del,11,1990,06:06,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/11-Dele Kouchoulou.mp3,mp3
+542,Raze Khelghat,Mahasti,Binava Del,12,1990,05:06,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/12-Raze Khelghat.mp3,mp3
+543,Darde Ghorbat Live,Mahasti,Binava Del,13,1990,04:03,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/13-Darde Ghorbat.mp3,mp3
+544,Dele Kouchoulou (London),Mahasti,Binava Del,14,1990,04:32,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/14-Dele Kouchoulou (London).mp3,mp3
+545,Dele Shekasteh (Bikalam),Mahasti,Binava Del,15,1990,03:07,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/15-Dele Shekasteh (Bikalam).mp3,mp3
+546,Fadat Sham,Mahasti,Binava Del,2,1990,05:59,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/2-Fadat Sham.mp3,mp3
+547,Lahzeye Masti,Mahasti,Binava Del,3,1990,05:31,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/3-Lahzeye Masti.mp3,mp3
+548,Darde Ghorbat,Mahasti,Binava Del,4,1990,03:00,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/4-Darde Ghorbat.mp3,mp3
+549,Dele Shekasteh,Mahasti,Binava Del,5,1990,04:48,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/5-Dele Shekasteh.mp3,mp3
+550,Vatan,Mahasti,Binava Del,6,1990,05:41,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/6-Vatan.mp3,mp3
+551,Rouze Milad,Mahasti,Binava Del,7,1990,06:29,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/7-Rouze Milad.mp3,mp3
+552,To Bezan Ta Man Beraghsam,Mahasti,Binava Del,8,1990,03:15,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/8-To Bezan Ta Man Beraghsam.mp3,mp3
+553,Leyli Va Majnoun,Mahasti,Binava Del,9,1990,03:43,/var/home/miladsharifiteh/Music/Mahasti/Binava Del/9-Leyli Va Majnoun.mp3,mp3
+554,Ghasam,Mahasti,Ghasam 2,1,1993,04:23,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/1-Ghasam.mp3,mp3
+555,Dele Mennat Kesh,Mahasti,Ghasam 2,10,1993,06:00,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/10-Dele Mennat Kesh.mp3,mp3
+556,Bacheh Nasho Ey Del,Mahasti,Ghasam 2,11,1993,03:43,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/11-Bacheh Nasho Ey Del.mp3,mp3
+557,Vay Be Halet,Mahasti,Ghasam 2,12,1993,04:57,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/12-Vay Be Halet.mp3,mp3
+558,Khouneh Tekouni,Mahasti,Ghasam 2,13,1993,03:08,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/13-Khouneh Tekouni.mp3,mp3
+559,Jodaei,Mahasti,Ghasam 2,14,1993,05:19,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/14-Jodaei.mp3,mp3
+560,Man Che Konam,Mahasti,Ghasam 2,2,1993,04:30,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/2-Man Che Konam.mp3,mp3
+561,Bazicheh,Mahasti,Ghasam 2,3,1993,04:22,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/3-Bazicheh.mp3,mp3
+562,Namiri Elahi,Mahasti,Ghasam 2,4,1993,04:30,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/4-Namiri Elahi.mp3,mp3
+563,Elahi Bemouni,Mahasti,Ghasam 2,8,1993,05:18,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/8-Elahi Bemouni.mp3,mp3
+564,Morghe Tokhm Tala,Mahasti,Ghasam 2,9,1993,04:54,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/9-Morghe Tokhm Tala.mp3,mp3
+565,Nemikhamet,Mahasti,Ghasam 2,5,1993,03:59,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/5-Nemikhamet.mp3,mp3
+566,Ashki Baram Namoundeh,Mahasti,Ghasam 2,6,1993,03:40,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/6-Ashki Baram Namoundeh.mp3,mp3
+567,Darya,Mahasti,Ghasam 2,7,1993,04:06,/var/home/miladsharifiteh/Music/Mahasti/Ghasam 2/7-Darya.mp3,mp3
+568,Khouneh Tekouni,Mahasti,Khouneh Tekouni - Vay Be Halet,1,1973,03:08,/var/home/miladsharifiteh/Music/Mahasti/Khouneh Tekouni - Vay Be Halet/1-Khouneh Tekouni.mp3,mp3
+569,Vay Be Halet,Mahasti,Khouneh Tekouni - Vay Be Halet,2,1973,04:52,/var/home/miladsharifiteh/Music/Mahasti/Khouneh Tekouni - Vay Be Halet/2-Vay Be Halet.mp3,mp3
+570,Yade Ou,Mahasti,Royal,1,1973,02:41,/var/home/miladsharifiteh/Music/Mahasti/Royal/1-Yade Ou.mp3,mp3
+571,Raze Khelghat,Mahasti,Royal,2,1973,07:44,/var/home/miladsharifiteh/Music/Mahasti/Royal/2-Raze Khelghat.mp3,mp3
+572,Bar Aseman Neveshteh,Mahasti,Royal,3,1973,03:13,/var/home/miladsharifiteh/Music/Mahasti/Royal/3-Bar Aseman Neveshteh.mp3,mp3
+573,Sokoute Javidan,Mahasti,Royal,4,1973,06:30,/var/home/miladsharifiteh/Music/Mahasti/Royal/4-Sokoute Javidan.mp3,mp3
+574,Kakhe Viraneh,Mahasti,Royal,5,1973,03:34,/var/home/miladsharifiteh/Music/Mahasti/Royal/5-Kakhe Viraneh.mp3,mp3
+575,Golhaye Rangarang (484),Mahasti,Royal,6,1973,05:20,/var/home/miladsharifiteh/Music/Mahasti/Royal/6-Golhaye Rangarang (484).mp3,mp3
+576,Khodaya Chera,Mahasti,Royal,7,1973,03:24,/var/home/miladsharifiteh/Music/Mahasti/Royal/7-Khodaya Chera.mp3,mp3
+577,Golhaye Rangarang (428),Mahasti,Royal,8,1973,09:48,/var/home/miladsharifiteh/Music/Mahasti/Royal/8-Golhaye Rangarang (428).mp3,mp3
+578,Golhaye Rangarang (420),Mahasti,Royal,9,1973,08:46,/var/home/miladsharifiteh/Music/Mahasti/Royal/9-Golhaye Rangarang (420).mp3,mp3
