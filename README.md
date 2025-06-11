@@ -62,7 +62,7 @@ need comments.
 #### Usage
 
 To run the software from the source:
-`python project.py`. To run the software from the binary file, go to the bin folder: `./miley`
+`python project.py`. To run the software from the binary file: `./miley`
 
 When you run **Miley**, you are in the main UI of the software. The 
 available commands in this stage are:
